@@ -17,7 +17,7 @@ For NPM users:<br>
 <br>
 At the command line, run the TypeScript compiler:
 
-tsc greeter.ts
+> tsc greeter.ts
 
 #------------------------------------------------
 <br>#CopyRight to CoffeeScript.fr
