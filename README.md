@@ -8,6 +8,5 @@ Installing TypeScript
 There are two main ways to get the TypeScript tools:
 
 Via npm (the Node.js package manager)
-By installing TypeScript’s Visual Studio plugins
-#------------------------------------------------
+By installing TypeScript’s Visual Studio plugins #<br>------------------------------------------------
 #CopyRight to CoffeeScript.fr
