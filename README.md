@@ -9,6 +9,16 @@ There are two main ways to get the TypeScript tools:
 
 Via npm (the Node.js package manager)
 By installing TypeScript’s Visual Studio plugins <br>
+
+For NPM users:<br>
+
+> npm install -g typescript
+
+<br>
+At the command line, run the TypeScript compiler:
+
+tsc greeter.ts
+
 #------------------------------------------------
 <br>#CopyRight to CoffeeScript.fr
 
